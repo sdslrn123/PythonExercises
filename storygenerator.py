@@ -1,7 +1,7 @@
-elements=[]
-elements.append(input("Name of main character: "))
-elements.append(input("Name of past verb: "))
-elements.append(input("Name of object: "))
-elements.append("on the")
-story=(elements[0],elements[1],elements[3],elements[2])
-print(story)
+story=[]
+print("Enter details with a , separating the elements")
+string=input("Enter details of a main character, an object, a verb \n")
+story=string.split(",")
+printedStory=(str(story[0])+str(story[2])+str(story[1]))
+print(type(printedStory))
+print (printedStory)
