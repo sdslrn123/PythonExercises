@@ -1,4 +1,7 @@
-#Guessing Game
+# Five mini programming projects for the Python beginner
+# https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
+# 2 of 5: Guessing Game
+
 
 import random
 
