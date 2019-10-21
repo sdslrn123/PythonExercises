@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 21 18:20:30 2019
-
-@author: syeds
-"""
-
-#DiceSimulator
+# DiceSimulator
+# https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
 
 import random
 
