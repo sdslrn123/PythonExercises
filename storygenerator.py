@@ -1,8 +1,7 @@
-#StoryGenerator
-
-mainCharacter=input("Name of main character: ")
-pastVerb=input("Name of past verb: ")
-sentenceObject=input("Name of object: ")
-filler="on the"
-story=(mainCharacter+' '+pastVerb+' '+filler+' '+sentenceObject)
+elements=[]
+elements.append(input("Name of main character: "))
+elements.append(input("Name of past verb: "))
+elements.append(input("Name of object: "))
+elements.append("on the")
+story=(elements[0],elements[1],elements[3],elements[2])
 print(story)
