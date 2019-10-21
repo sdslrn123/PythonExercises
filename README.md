@@ -1,2 +1,2 @@
 # PythonExercises
-Dice Simulator
+# Place to put all code for Python Exercises
